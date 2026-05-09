@@ -1,31 +1,31 @@
 {
   "hero": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/pawpolish-1778359201/cleo/1778361806892-hero.png",
+    "alt": "Lead hero image with a freshly groomed terrier on a tactile grooming table, Warm Clay bandana, Soft Cream negative space, and small Sea Glass accent detail. It fits the boutique, warm, honest-photogra",
     "width": 1920,
     "height": 1080
   },
   "feature_1": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/pawpolish-1778359201/cleo/1778361805996-feature_1.png",
+    "alt": "Feature image showing mobile grooming at a suburban home with a calm dog on a portable table and a cropped van edge. The palette uses Soft Cream, Sandstone, Warm Clay, and a restrained Sea Glass accen",
     "width": 800,
     "height": 600
   },
   "feature_2": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/pawpolish-1778359201/cleo/1778361814124-feature_2.png",
+    "alt": "Overhead grooming-station image with tactile tools, neutral surfaces, clay appointment-card shapes, and dog paws at the frame edge. It supports transparent pricing and service clarity through orderly ",
     "width": 800,
     "height": 600
   },
   "feature_3": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/pawpolish-1778359201/cleo/1778361803003-feature_3.png",
+    "alt": "Close care-policy image with a groomer’s cropped torso and hands gently checking a dog’s paw on a Sandstone table. It reinforces safety, credentials, and calm handling with Deep Charcoal structure, Wa",
     "width": 800,
     "height": 600
   },
   "social_proof": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/pawpolish-1778359201/cleo/1778361801690-social_proof.png",
+    "alt": "Social-proof accent image with a boutique pet photo board and a freshly groomed spaniel in the foreground. It gives testimonial-section warmth without fake people, rendered names, or stock testimonial",
     "width": 1200,
     "height": 800
   }
